@@ -1,0 +1,17 @@
+{
+  "name": "mission-bupa-mock-service",
+  "description": "Basic Business Partner mock service for TechEd 2019 Mission",
+  "repository": "https://github.wdf.sap.corp/i347491/mission-bupa-mock-service",
+  "license": "ISC",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^8.9"
+  },
+  "dependencies": {
+    "@sap/cds": "latest",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "sqlite3": "^4.0.9"
+  }
+}
