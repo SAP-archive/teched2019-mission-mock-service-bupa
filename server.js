@@ -6,7 +6,7 @@ const app = express()
 
 cds.serve("all").in(app)
 
-app.listen (PORT, ()=> console.info(`server listening on port ${PORT}`
+app.listen (PORT, ()=> console.info(`server listening on http:\/\/localhost:${PORT}`))
 
 // Seed with sample data
 cds.deploy('srv').to('sqlite::memory:',{primary:true}) .then (async db => {
