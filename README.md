@@ -25,7 +25,7 @@ You can download this repository in the normal way, i.e. by using `git clone` in
 1. Start the service with `npm start`
 1. Access the address data at <http://localhost:3000/sap/opu/odata/sap/API_BUSINESS_PARTNER/A_BusinessPartnerAddress>
 
-## How to obtain support
+## How to obtain support
 
 Support for this content will be provided only within the context of SAP TechEd 2019, onsite, at the Developer Garage. Otherwise, this content is provided "as-is" with no other support.
 
