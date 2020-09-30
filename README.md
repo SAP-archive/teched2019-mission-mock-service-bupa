@@ -1,5 +1,7 @@
 # Simple BUPA Mock Service
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2019-mission-mock-service-bupa)](https://api.reuse.software/info/github.com/SAP-samples/teched2019-mission-mock-service-bupa)
+
 ## Description
 
 This is a simple Business Partner mock service that emulates the [OData Mock Service](https://sap.github.io/cloud-s4-sdk-book/pages/mock-odata.html) that was [supplied for the "Extending SAP S/4HANA" book](https://sap.github.io/cloud-s4-sdk-book/pages/mock-odata.html) and openSAP course. It exists primarily as a starting point for an SAP TechEd 2019 tutorial mission relating to the SAP Cloud Application (CAP) Programming Model and the SAP Cloud SDK.
@@ -32,6 +34,10 @@ None.
 ## How to obtain support
 
 Support for this content will be provided only within the context of SAP TechEd 2019, onsite, at the Developer Garage. Otherwise, this content is provided "as-is" with no other support.
+
+## Contributing
+
+If you wish to contribute code, offer fixes or improvements, please send a pull request (PR). Due to legal reasons, contributors will be asked to accept a [Developer Certificate of Origin (DCO)](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin) on submitting their first PR to this project. This DCO acceptance can be done in the PR itself - look out for the CLA assistant that will guide you through the simple process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
 
 ## License
 
